@@ -72,3 +72,5 @@ Por ahora está siendo un camino interesante lleno de cambios y de progreso, en 
 
 No solo a nivel de conocimientos informáticos sino a nivel personal, acompañadme este curso y conocedme poco a poco en esta suerte de blog.
 ### muchas gracias por visitar la pagina o leer mi readme ###
+![lofiYO](https://github.com/user-attachments/assets/3bdb0521-5f96-4eed-8b8a-9023dffa684a)
+
