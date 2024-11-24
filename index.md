@@ -1,12 +1,9 @@
 ---
-title: Home
-layout: home
+title: Portafolio
+layout: Portafolio curso 1º de DAW
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
-
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
-
+Esta es una pagina web en la que ire subiendo los trabajos que me gusten de este curso o de los que esté realmente orgulloso
 More specifically, the created site:
 
 - uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
