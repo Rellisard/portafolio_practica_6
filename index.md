@@ -3,8 +3,14 @@ title: Portafolio
 layout: Portafolio curso 1º de DAW
 ---
 
-Esta es una pagina web en la que ire subiendo los trabajos que me gusten de este curso o de los que esté realmente orgulloso
-More specifically, the created site:
+Este va a ser mi portafolio de este año en 1º de DAW el objetivo de esta pagina es guardar los trabajos que me gusten de este curso o de los que esté realmente orgulloso
+Este año tenemos las siguientes asignaturas:
+- Entornos de desarrollo
+- Base de datos
+- Sistemas informáticos
+- Intinerario Personal para la Empleabilidad
+- Programación
+- 
 
 - uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
 - uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
